@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gabe!
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Javascript and C#
 - 📫 How to reach me, www.linkedin.com/in/gwotorson
